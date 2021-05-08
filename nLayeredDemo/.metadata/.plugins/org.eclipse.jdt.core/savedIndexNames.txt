@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\DiðerPc\Yazýlýmcý Yetiþtirme Kampý\Java Kampý\nLayeredDemo\.metadata\.plugins\org.eclipse.jdt.core
+1662216653.index
+741764482.index

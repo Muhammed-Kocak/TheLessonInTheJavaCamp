@@ -1,0 +1,16 @@
+package nLayeredDemo;
+
+import nLayeredDemo.business.abstracts.ProductService;
+import nLayeredDemo.business.concretes.ProductManager;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		//ToDo: Spring IoC ile daha farklý yazýlacak.(Refactor)
+		ProductService productService = new ProductManager();
+		
+		
+	}
+
+}

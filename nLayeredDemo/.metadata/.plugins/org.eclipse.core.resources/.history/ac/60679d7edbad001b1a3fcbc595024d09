@@ -1,0 +1,13 @@
+package nLayeredDemo.dataAccess.concretes;
+
+import nLayeredDemo.dataAccess.abstracts.ProductDao;
+import nLayeredDemo.entities.concretes.Product;
+
+public class HibernateProductDao implements ProductDao{
+
+	@Override
+	public void add(Product product) {
+		
+	}
+	
+}
