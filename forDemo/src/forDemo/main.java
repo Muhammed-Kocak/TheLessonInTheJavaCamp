@@ -1,6 +1,5 @@
 package forDemo;
 
-import java.util.Iterator;
 
 public class main {
 
